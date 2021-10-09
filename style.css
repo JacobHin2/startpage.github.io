@@ -1,7 +1,7 @@
 html {
   background-color: #1d2021;
   align-items: flex-start;
-  /* color: #ff900f; */
+  color: #ff900f;
   display: flex;
   font: 36px "Input Mono", 22px "Courier New", Courier, monospace;
   height: 100%;
@@ -26,7 +26,6 @@ h1 {
 }
 li {
   text-align: center;
-  color: rgba(255, 255, 255, 0.3);
 }
 
 a {
